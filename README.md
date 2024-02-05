@@ -10,9 +10,3 @@ This is a simple Quiz App built using HTML, CSS, and JavaScript. The application
 - Instant feedback on each question.
 - Final score display at the end of the quiz.
 - Responsive design for seamless user experience on various devices.
-
-## How to Use
-
-1. Clone the repository to your local machine.
-   ```bash
-   git clone https://github.com/your-username/Quiz-App_Javascript_HTML_CSS.git
